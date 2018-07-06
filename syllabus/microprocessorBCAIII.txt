@@ -1,0 +1,122 @@
+<div class="objectives">
+	1. This course will provide the fundamental knowledge to understand the basics, operation.
+	2. It also provides the basic idea of assembly level programming and application of microprocessor. 
+</div>
+
+<div class="titleCount">9</div>
+<div class="titleNo1">1</div>		
+<div class="title1">Introduction</div>
+<div class="content1">
+	1.1 Introduction to Microprocessors 
+	1.2 Review of Processor Bus Organization, Arithmetic Logic Unit (ALU)
+</div>
+<div class="creditHours1">3 hours</div>
+
+<div class="titleNo2">2</div>		
+<div class="title2">Basic Computer Architecture</div>
+<div class="content2">
+	2.1 SAP-1 Architecture 
+		2.1.1 8 - bit "W" bus
+		2.1.2 4 – bit program counter only counts up (starts execution at 0)
+		2.1.3 4 – bit memory Address register (MAR)
+		2.1.4 16x8- bit memory 
+		2.1.5 8-bit instruction register (IR)
+		2.1.6 6-cycle controller with 12-bit micro-instruction word
+		2.1.7 8-bit accumulator
+		2.1.8 8-bit B register
+		2.1.9 8-bit adder-subtractor
+		2.1.10 8-bit output register
+	2.2	SAP-1 Instructions
+	2.3	Fetch & Execution, Micro program
+		2.3.1 Fetch Cycle
+		2.3.2 Execution cycle
+		2.3.3 microprogram
+		2.3.4 Controller implementation
+</div>
+<div class="creditHours2">14 hours</div>
+
+<div class="titleNo3">3</div>		
+<div class="title3">SAP 2</div>
+<div class="content3">
+	3.1	SAP 2 Architecture
+	3.2	Architectural differences with SAP-1
+	3.3	bi-directional registers
+	3.4	instruction set
+	3.5	flags
+</div>
+<div class="creditHours3">3 hours</div>
+
+<div class="titleNo4">4</div>		
+<div class="title4">Instruction Cycle</div>
+<div class="content4">
+	4.1 Fetch Operation and Timing Diagram 
+	4.2 Execute Operation and timing Diagram
+	4.3 Machine Cycle and States
+</div>
+<div class="creditHours4">3 hours</div>
+
+<div class="titleNo5">5</div>		
+<div class="title5">Intel 8085</div>
+<div class="content5">
+	5.1 Functional Block Diagram and Pin configuration
+	5.2 Timing and Control Unit
+	5.3 Registers
+	5.4 Data and Address Bus
+	5.5 Intel 8085 instructions
+	5.6 Operation Code and Operands
+	5.7 Addressing Modes, Interrupts, Flags
+	5.8 Instructions and Data Flow inside 8085
+	5.9 Basic Assembly Language Programming Using 8085 Instruction Sets
+</div>
+<div class="creditHours5">9 hours</div>
+
+<div class="titleNo6">6</div>		
+<div class="title6">Basic I/O And Memory R/W Operations</div>
+<div class="content6">
+	6.1 Memory Read
+	6.2 Memory Write
+	6.3 I/O Read
+	6.4 I/O Write
+	6.5 Introduction to Direct Memory Access
+</div>
+<div class="creditHours6">5 hours</div>
+
+<div class="titleNo7">7</div>		
+<div class="title7">Digital interface</div>
+<div class="content7">
+	7.1 Introduction PPI Device 8255 A
+	7.2 Internal Block Diagram
+	7.3 252A Modes, Initialization and generation control words 
+	7.4 Example of 8255 A interfacing to a micro-computer
+</div>
+<div class="creditHours7">6 hours</div>
+
+<div class="titleNo8">8</div>		
+<div class="title8">Input and Output Interfaces</div>
+<div class="content8">
+	8.1 Serial and parallel Communication
+	8.2 Data transfer wait interface
+	8.3 RS-232
+	8.4 IEEE 488-1978 general purpose interface standard.
+</div>
+<div class="creditHours8">5 hours</div>
+
+<div class="titleNo9">9</div>		
+<div class="title9">Overview Of Intel 8086</div>
+<div class="content9">
+	9.1 Block Diagram and Pin Configuration
+	9.2 Introduction to to 8086
+	9.3 Introduction to 8086 Assembly Language Programming
+</div>
+<div class="creditHours9">5 hours</div>
+	
+<div class="laboratory"></div>
+
+<div class="courseBook"></div>
+
+<div class="referenceBook">
+	1. Malvino: Digital Computer Electronics and Introduction to Microcomputers
+	2. Ramesh S. Gaonkar: Microprocessor Architecture, Programming and Application with 8085, Prentice Hall 
+	3. Morris Mano: Computer System Architecture, Prentice Hall
+	4. Dougals V. Hall: Microprocessor and Interfacing programming and Hardware, McGraw Hill.
+</div>

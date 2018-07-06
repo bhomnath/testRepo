@@ -1,0 +1,74 @@
+<div class="objectives">
+The main objectives of this course are:-
+	1. To develop the ability to deliver technical knowledge orally in English.
+	2. To be able to comprehend and take notes after listening and reading.
+	3. To fasten reading skills in technical and non-technical reading materials.
+	4. To develop summarizing skills in writings.
+	5. To impart the knowledge of effective written and oral communication skills for handling business operations.</div>
+
+<div class="titleCount">8</div>
+<div class="titleNo1">1</div>
+<div class="title1">Review of English Grammar</div>
+<div class="content1">Clause and its types; Sentence structure, sentence types (simple, compound and complex); transformation of sentences; Voice (Active and Passive); Variety levels of English: formal, informal, polite, familiar, impolite, spoken and written.</div>
+<div class="creditHours1">6 hours</div>
+
+
+
+<div class="titleNo2">2</div>
+<div class="title2">Fundamentals of Business Writing</div>
+<div class="content2">Adaptation and Selection of Words (Importance of Adaptation, suggestions for selecting words and suggestions for non- discriminatory writing), Construction of clear sentences and paragraphs</div>
+<div class="creditHours2">3 hours</div>
+
+
+<div class="titleNo3">3</div>
+<div class="title3">Business Correspondence</div>
+<div class="content3">Situations requiring directness (Direct inquiries, Favorable Responses, Adjustments grants, Order acknowledgements, Claims, Personal evaluation, Order letters), Indirect Situations: (Refused request, Adjustment and refusals, Credit refusals, Vague and back order.)	Persuasive Request and Collections: (Persuasive Requests, Collection letters)</div>
+<div class="creditHours3">9 hours</div>
+
+
+<div class="titleNo4">4</div>
+<div class="title4">Technical Writing Skills</div>
+<div class="content4">Preparation of short memoranda (Importance- formats); Job Application and Bio-data; Description writing (Process, Mechanism, and Place etc.); Seminars papers (Conduction of seminar, Writing Seminar Paper, Preparation of circular), Preparation of reports (Ttypes: short, long letter, memo-reports); Writing Proposals (Grant, Research, Project Proposals); Conduct of Meeting (Agenda, Notification, Minute Preparation); Documentation (APA Format : Citing Author/s, Book/s, Journal, Newspaper, Magazine and Websites)</div>
+<div class="creditHours4">12 hours</div>
+
+<div class="titleNo5">5</div>
+<div class="title5">Oral Communication</div>
+<div class="content5">Technical talks (Suggested Topics: Environmental pollution, construction, water resources, impact of computer in modern society, impact of satellite communication, urban development); Interview (Effective Techniques, How to prepare, Body Language, What to expect? Dos and Don'ts)</div>
+<div class="creditHours5">6 hours</div>
+
+
+<div class="titleNo6">6</div>
+<div class="title6">Technology Enabled Communication</div>
+<div class="content6">Using technology in communication task, Tools for presenting messages, Tools for transmitting messages, Tools for collaboration, A look to the future.</div>
+<div class="creditHours6">3 hours</div>
+
+
+<div class="titleNo7">7</div>
+<div class="title7">Reading skills</div>
+<div class="content7">Comprehension question and exercise (from prescribed passages- Freedom (G. B. Shaw), Knowledge and Wisdom (Bertrand Russel), The Story of an Hour (Kate Chopin), Why Go to University? (Moti Nissani), Beauty (Susan Sontag)
+Note Taking and Summary/ Precis Writing (from any passages containing 250-350 words)</div>
+<div class="creditHours7">6 hours</div>
+
+
+<div class="titleNo8">8</div>
+<div class="title8">Practical Works</div>
+<div class="content8">
+	1. To present a seminar paper,
+	2. To participate in a group discussion,
+	3. To conduct a meeting
+	4. To prepare and practice to face an interview
+</div>
+<div class="creditHours8">3 hours</div>
+
+<div class="laboratory"></div>
+
+<div class="courseBook">
+	1. Andrea J, Rutherford. Basic Communication Skills for Technology. 2nd Edition. Pearson Education Asia (LPE) ISBN8178082810.
+	2. Lesikar, Raymond V. & et-al: Business Communication, TATA McGraw Hill Education Pvt. Ltd.</div>
+
+<div class="referenceBook">
+	1. Anne Eisenberg, Effective Technical Communication, Mc- Graw Hill 1982
+	2. Houp and T. E. Pearsall, Reporting Technical Information, Allyn  and Bacon, Boston.
+	3. V. R.Narayanaswami, Strengthen your Writing, Orient Longman, Madras.
+	4. Champa Tickoo and Jaya Sasikumar, Writing with a Purpose Oxford University Press , Bombay.
+	5. Khanal, Arjun. Communication Skills in English, Sukunda Pustak Bhawan, Kathmandu 2010</div>

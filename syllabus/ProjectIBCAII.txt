@@ -1,0 +1,44 @@
+<div class="objectives">
+	1. To develop the ideas about the programming concept using PLT.
+	2. Implementing various programming technique using C.
+	3. To develop the small project about any real based system using programming language C. 
+</div>
+<div class="titleCount">1</div>
+<div class="titleNo1">1</div>		
+<div class="title1">Course Contents</div>
+<div class="content1">
+The following are documentation guidelines to be given to each student along with an assignment that should cover most of the main topics given in the framework.
+Cover Page
+Executive summary
+Acknowledgment
+	1. Introduction
+	2. The Assignment project
+	3. Objective of Assignment project
+	4. Time Plan for the work assigned
+	5. Investigation of the problems
+	6. System Analysis
+		6.1 Feasibility study
+		6.2 Context Diagram
+		6.3 Data Flow Diagram
+	7. System Design
+		7.1 ER and implementation
+		7.2 User interface
+	8. Program Specification
+	9. Algorithms
+	10. Flowchart or Decision tree of Decision Table or Structure English
+	11. Program coding
+	12. Input test Data
+	13. Program Testing
+	14. Output/Reports
+	15. Computer (software and Hardware) requirement to run this program
+	16. Software Installation and operation procedures
+	17. Comments on the Assignment project if any (How did he/she find it? Time provided and resources along with teacher’s guidance at required of the student or not. What improvement you would make if certain asked thing provided to you?
+	18.  Conclusion and recommendation 
+	19. Users Manual
+
+Special attention
+Each student should be given ample opportunity to use computer system for the assigned project work. Sample format of project work could be given to the students before assigning the work.
+The computer system must have required necessary software packages and program installed in order to accomplish the tasks assigned to them. Teacher could guide students during the development work assign to students. Generally, individual project is more preferable because he/she can learn more on project but project work can be done in group (maximum of 5 persons in each group).
+</div>
+<div class="creditHours1">16 hours</div>
+

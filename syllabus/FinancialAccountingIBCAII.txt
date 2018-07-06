@@ -1,0 +1,63 @@
+<div class="objectives">
+	1. It provides the basic concepts in financial accounting.
+	2. It gives the knowledge to prepare financial statements.
+	3. It helps to collect various information system.</div> 
+
+<div class="titleCount">8</div>
+<div class="titleNo1">1</div>
+<div class="title1">Introduction</div>
+<div class="content1">Concept of accounting, forms of business organization and nature of business activity; users of accounting information and their needs; fields of accounting; financial statements: the tools for communication; generally accepted accounting principles; qualitative characteristic of accounting information; objectives of financial statements; the accounting profession.</div>
+<div class="creditHours1">4 hours</div> 
+
+<div class="titleNo2">2</div>
+<div class="title2">Recording, Handling and Summarizing the Accounting Information</div>
+<div class="content2">Role of source documents, Recording of transaction and events, the accounting equation; the double entry system; analysis of transaction; rules of debits and credits for assets, expenses, liabilities, capital and income; cash accrual and hybrid system of accounting; journal-general and special including cash and bank books; role of vouchers, T-accounts; trial balance; concepts of the annual report and financial statements.</div> 
+<div class="creditHours2">9 hours</div>
+
+
+<div class="titleNo3">3</div>
+<div class="title3">Income Statement</div>
+<div class="content3">Concepts of income statement; major components of income statements: revenues, cost of sales, gross margin, administrative expenses, selling and distribution expenses, gains and losses, net income and retained earnings; formats of income statements; retained earning statements, preparation of income statement (Vertical multi-step format)</div>
+<div class="creditHours3">4 hours</div>
+ 
+
+<div class="titleNo4>4</div>
+<div class="title4>Balance Sheet</div>
+<div class="content4>Concepts of balance sheet; major components of balance sheet: assets, liabilities and stockholder's equity; preparation of balances sheet (vertical, classified format)</div>
+<div class="creditHours4">4 hours</div>
+
+<div class="titleNo5>5</div>
+<div class="title5>Work Sheet</div>
+<div class="content5>Accrual and adjusting entries; T-accounts, opening and closing entries; preparation of income statement and Balance sheet with adjustments using a work sheet.</div>
+<div class="creditHours5">8 hours</div>
+
+
+<div class="titleNo6>6</div>
+<div class="title6>Statment of Cash Flows</div>
+<div class="content6>Cash flows and accrual accounting; purpose of the statement of cash flows; operating, investing and financing activities; formats of statement of cash flows; preparation of cash flow statement (vertical format)</div>
+<div class="creditHours6">8 hours</div>
+
+
+<div class="titleNo7>7</div>
+<div class="title7>Annual Report</div>
+<div class="content7>Meaning and components of an annual report</div>
+<div class="creditHours7">2 hours</div>
+
+
+<div class="titleNo8>8</div>
+<div class="title8>Accounting Information System and the use of Computers in Accounting</div>
+<div class="content8>Accounting information system in modern business organizations; role of computers in accounting; recording transactions, extracting ledger, trial balance and presenting the financial statements received from the accounting package; using computerized accounting software; retrieving various reports from the system</div>
+<div class="creditHours8">9 hours</div>
+
+<div class="laboratory"></div>
+
+<div class="courseBook">
+	1. Porter, Gary A. Norton, Curtis L., Financial Accounting: The Impact on Decision Makers, The Dryden Press, USA.</div>
+
+<div class="referenceBook">
+	1. R. Narayanswamy, Financial Accounting: A Managerial Perspective, Prentice Hall of India. 
+	2. Accounting Package
+	3. Sharma, Narendra, Acharya, C: Financial Accounting, Budha Academic Centre 
+	4. Koirala, Goet, Bhandari,Sharma,Adhikari, Neupane, Upreti : Financial Accountancy I, Asmita Publication
+</div>
+

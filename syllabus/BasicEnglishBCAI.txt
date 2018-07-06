@@ -1,0 +1,31 @@
+<div class="objectives">
+This course contains informative reading to improve reading skills, exercise to help improve listening skills, effective writing exercises to develop useful techniques in writing and realistic creative writing to give an opportunity to express oneself. The course aims to develop the overall skills in the use of English language. Especially it aims to:
+
+1. Revise and consolidate on what  the students have already learn in their +2 or higher secondary course:
+2. Develop and extend their knowledge further;
+3. Develop their reading, listening and writing skills;
+4. Orient them towards creative writing;
+5. Polish students “problem areas” of English grammar;
+6. Develop their vocabulary skills; and
+7. Develop the knowledge and practice of functional language needed in different situations.</div>
+
+
+<div class="titleCount">3</div>
+
+<div class="titleNo1">1.</div>
+<div class="title1">Module I</div>
+<div class="content1">Desert Island, around the world, that’s show business!, Food and drink, Crossing the Channel</div>
+<div class="creditHours1">16 hours</div>
+
+<div class="titleNo2">2.</div>
+<div class="title2">Module II</div>
+<div class="content2">Buildings and homes, put it in writing. The third age, It takes all sorts ………..communication</div>
+<div class="creditHours2">16 hours</div>
+
+<div class="titleNo3">3.</div>
+<div class="title3">Module III</div>
+<div class="content3">The English- speaking world, Travelers, Love Stories, on business, here is the news</div>
+<div class="creditHours3">16 hours</div>
+
+<div class="courseBook">1. Jones, Leo: Cambridge Advanced English, Cambridge: CUP</div>
+<div class="referenceBook">Dictionary, Video and Cassettes</div>

@@ -1,0 +1,131 @@
+<div class="objectives">
+	1. To develop various problem solving strategies.
+	2. Implementing various programming technique using C.
+	3. To make foundation in programming languages. 
+</div>
+<div class="titleCount">9</div>
+<div class="titleNo1">1</div>		
+<div class="title1">Introduction</div>
+<div class="content1">
+	1.1	Flow chart and algorithms
+	1.2 History of C
+	1.3 Characteristics of C
+	1.4 Structure of C Program
+</div>
+<div class="creditHours1">3 hours</div>
+
+<div class="titleNo2">2</div>		
+<div class="title2">Variable and data types</div>
+<div class="content2">
+	2.1	Constant and variables 
+	2.2	Variable declaration
+	2.3	Variable Types
+	2.4	Simple input/output function
+	2.5	Operators
+</div>
+<div class="creditHours2">7 hours</div>
+
+<div class="titleNo3">3</div>		
+<div class="title3">Loops and Decisions</div>
+<div class="content3">
+	3.1 Introduction 
+	3.2 For Loop,
+	3.3 While Loop
+	3.4 Do while Loop
+	3.5 Nested Loop
+	3.6 Case, break and continue statements
+	3.7 The if, if else, else-if and switch statements
+</div>
+<div class="creditHours3">8 hours</div>
+
+<div class="titleNo4">4</div>		
+<div class="title4">Functions</div>
+<div class="content4">
+	4.1	Introduction 
+	4.2	Returning a value from a function
+	4.3	Sending a value to a function
+	4.4	Arguments
+	4.5 External variables
+	4.6 Preprocessor directives
+	4.7 C libraries
+	4.8 Macros
+	4.9 Header files and prototyping
+</div>
+<div class="creditHours4">6 hours</div>
+
+<div class="titleNo5">5</div>		
+<div class="title5">Arrays and Strings</div>
+<div class="content5">
+	5.1 Introduction to Arrays 
+	5.2 Initializing Arrays
+	5.3 Multidimensional Arrays
+	5.4 String
+	5.5 Functions related to the strings
+</div>
+<div class="creditHours5">10 hours</div>
+
+<div class="titleNo6">6</div>		
+<div class="title6">Pointers</div>
+<div class="content6">
+	6.1 Pointers definition
+	6.2 Pointers and Arrays
+	6.3 Returning multiple values from functions using pointers
+	6.4 Pointer Arithmetic
+	6.5 Pointer and Strings
+	6.6 Double Indirection
+	6.7 Pointer to Arrays
+</div>
+<div class="creditHours6">4 hours</div>
+
+<div class="titleNo7">7</div>		
+<div class="title7">Structure and Unions</div>
+<div class="content7">
+	7.1 Definition of Structure
+	7.2 Nested type Structure
+	7.3 Arrays of Structure
+	7.4 Structure and Pointers
+	7.5 Linked Lists
+	7.6 Union and application of it.
+</div>
+<div class="creditHours7">4 hours</div>
+
+<div class="titleNo8">8</div>		
+<div class="title8">File I/O</div>
+<div class="content8">
+	8.1 Stream
+		8.1.1 Text Stream
+		8.1.2. Binary Stream
+	8.2	File Pointer
+		8.2.1 Open File
+		8.2.2 File Open Mode
+		8.2.3 Closing File	
+	8.3	fgets, fputs
+	8.4	fread, fwrite
+	8.5	 Random Access I/O (fseek)
+	8.6	fprintf/fscanf
+</div>
+<div class="creditHours8">4 hours</div>
+
+<div class="titleNo9">9</div>		
+<div class="title9">Developing a Project</div>
+<div class="content9">
+	9.1 Project definition and functional specifications
+	9.2 Top Down Analysis
+	9.3 Decomposition of Projects in different modules and inter-module relationship
+	9.4 Data flow diagrams
+	9.5 Translation of Different modules in codes
+</div>
+<div class="creditHours9">2 hours</div>
+
+<div class="laboratory">
+Laboratory work at an initial stage will emphasize on the verification of programming concepts learned in class and uses of loops, functions pointers structures and unions. Final project of 10 hours will be assigned to the students to put together most of the programming concepts development in earlier exercises.
+</div>
+
+<div class="courseBook"></div>
+
+<div class="referenceBook">
+	1. S.k. Srivastava and Deepali Srivastava: C in Depth
+	2. Kely and Pohl: A book on C
+	3. Wait, Mitchell, Steven Prata and Donald Martin: C primer Plus
+	4. Yeswant Kanetkar: Let us C
+</div>

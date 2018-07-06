@@ -1,0 +1,116 @@
+<div class="objectives">
+After completion of this course students will be able to:
+	1. Analyze electric circuits 
+	2. Gain familiarity with semiconductor devices
+	3. Introduction of semiconductor logic</div> 
+
+
+<div class="titleCount">9</div>
+<div class="titleNo1">1</div>
+<div class="title1">Electric Circuit Elements</div>
+<div class="content1">
+	1.1 Resistors
+	1.2 Inductors
+	1.3 Capacitors
+	1.4 Voltage and Current Sources</div>
+<div class="creditHours1">2 hours</div>
+
+
+<div class="titleNo2">2</div>
+<div class="title2">DC Circuits</div>
+<div class="content2">
+	2.1 Ohm's Law 
+	2.2 Series and parallel circuits
+	2.3 Power and energy
+	2.4 Kirchhoffs voltage and current laws
+	2.5 Loop and nodal equations
+	2.6 Maximum power transfer theorem
+	2.7 Thevenin's and Norton's equivalent circuits</div>
+<div class="creditHours2">7 Hours</div>
+
+<div class="titleNo3">3</div>
+<div class="title3">Single-Phase AC circuits</div>
+<div class="content3">
+	3.1 Sinusoidal waveform 
+	3.2 Resistors, inductors and capacitors with sinusoidal excitation
+	3.3 Phasor representation of AC quantities
+	3.4 Concept of complex impedance and admittance
+	3.5 Average and effective values of voltages and currents
+	3.6 Power in AC: instantaneous power, average power, real power, apparent power, power factor</div>
+<div class="creditHours3">7 Hours</div>
+
+<div class="titleNo4">4</div>
+<div class="title4">Semi-conducting Materials</div>
+<div class="content4">
+	4.1	Energy band structures of conductors, insulators and semiconductors, Fermi level and energy gap. 
+	4.2 Conduction principle in semiconductors, electrons and holes.
+	4.3 Donor and acceptor impurities n-and p-type semiconductors</div>
+<div class="creditHours4">5 Hours</div>
+
+<div class="titleNo5">5</div>
+<div class="title5">The P-n Junction diode</div>
+<div class="content5">
+	5.1 Formation of space-charge region in p-n junction 
+	5.2 Energy band structure and barrier potential
+	5.3 The p-n junction under forward bias and reverse bias
+	5.4 Characteristic curve, diode load line.
+	5.5	Application of diode(logic gates:AND,OR,NOT and rectifiers: half and full wave ) 
+	5.6 Zener diode, characteristics and applications</div>
+<div class="creditHours5">7  Hours</div>
+
+<div class="titleNo6">6</div>
+<div class="title6">Bipolar Junction Transistor</div>
+<div class="content6">
+	6.1 Transistor types: pnp and npn transistors, principle of operation, and parameter and their relationships.
+	6.2 Transistor configurations: common base, common emitter and common collector, amplification, input and output impedances Biasing, Dc and Ac load lines, operating point 
+	6.3 Application of BJT(Resistor Transistor logic gates:AND,OR)
+</div>
+<div class="creditHours6">7 Hours</div>
+
+<div class="titleNo7">7</div>
+<div class="title7">Junction Field-Effect Transistor</div>
+<div class="content7">
+	7.1 Construction, types and principle of operation
+	7.2 JEET quadratic characteristics
+	7.3 Biasing and load line</div>
+<div class="creditHours7">4 Hours</div>
+
+<div class="titleNo8">8</div>
+<div class="title8">Metal Oxide Semiconductor Field Effect Transistor</div>
+<div class="content8">
+	8.1 Construction, n-MOS and p-MOS, principle of operation
+	8.2 Depletion and Enhancement type MOSFETs, quadratic characteristics</div>
+<div class="creditHours8">4 Hours</div>
+
+<div class="titleNo9">9</div>
+<div class="title9">The Operational  Amplifier</div>
+<div class="content9">
+	9.1 The ideal operational amplifier and its characteristics
+	9.2 Inverting and non-inverting amplifiers
+	9.3 Summing amplifier
+	9.4 Integrating and differentiating ampliflers</div>
+<div class="creditHours9">5 Hours</div>
+
+
+<div class="laboratory">
+1. Verification of Kirchhoffs voltage and current laws 
+2. Verification of maximum power transfer theorem
+3. Measurement of active, reactive and apparent powers in a single-phase ac circuit
+4. Characteristics of different diodes: silicon diode, germanium diode, zener diode
+5. To verify Logic gates using diodes and resistors.
+6. To rectify ac signals using one and two diodes.
+7. Input and output characteristics of a common –emitter transistor 
+8. Output and transfer characteristics of a common-source JFET 
+9. Output and transfer characteristic of a common-source MOSFET
+10. Inverting and non-inverting operational amplifier circuits
+</div>
+
+<div class="courseBook"></div>
+<div class="referenceBook">
+1. Sedra and Smith: Microelectronic Circuits
+2. Shaum Series: Electronic Circuit
+3. BL Thereja: A Textbook of Electrical Technology Vol- I
+4. J. B. Gupta:  Electronic Device and Circuits
+</div>
+
+

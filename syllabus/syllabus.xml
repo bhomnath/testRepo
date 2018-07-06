@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+    <objectives>
+        <content>
+This course contains informative reading to improve reading skills, exercise to help improve listening skills, effective writing exercises to develop useful techniques in writing and realistic creative writing to give an opportunity to express ourself.
+</content>
+        <points>
+            <point>Revised And consolidate on what the students have already learn in their +2 or higher secondary course.</point>
+            <point>Develop their reading, listening and writing skills</point>
+        </points>
+    </objectives>
+    <chapters>
+        <chapter>
+            <chapterno>1</chapterno>
+            <chaptername>Module I 
+            
+            </chaptername>
+            <contents>
+                <content>
+Desert Island, around the world, that’s show business, Food and drink…\
+                </content>
+            </contents>
+            <credithour>16 hours</credithour>
+        </chapter>
+        <chapter>
+            <chapterno>1</chapterno>
+            <chaptername>Module I</chaptername>
+            <contents>
+                <content>Test</content>
+            </contents>
+            <credithour>16 hours</credithour>
+        </chapter>
+        <chapter>
+            <chapterno>1</chapterno>
+            <chaptername>Module I</chaptername>
+            <contents>
+                <content>
+Desert Island, around the world, that’s show business, Food and drink…
+                
+                    
+                                    </content>
+            </contents>
+            <credithour>16 hours</credithour>
+        </chapter>
+    </chapters>
+    <books>
+        <book>Jones Leo : Cambridge</book>
+        <book>Sushil Stha : Cambridge</book>
+    </books>
+    <referencebooks>
+        <book>Dictionary, Video</book>
+        <book>Cassettes</book>
+    </referencebooks>
+</course>
+
+
+
+
